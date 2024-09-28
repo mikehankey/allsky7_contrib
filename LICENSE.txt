@@ -1,0 +1,39 @@
+AllSky7 Contributor License Agreement (AS7-CLA v1)
+--------------------------------------------------
+
+Notes
+This is a default GPT generated license. This still needs discussion, review and revsion. 
+
+Main Points
+ - Contibutors must agree to license contributions to AllSky7 for our use, while still protecting the parent company/intellectual property. 
+
+ - Contibutions should not prevent author from using the code himself, but contributing does not entitle author to rights over company project. 
+
+ - Others (non-authors/non-company) may use code in public repo for non-commercial purposes only. 
+
+---------------------------
+
+
+1. Copyright and Ownership
+All contributions to this project ("AllSky7") are provided under the following terms and conditions:
+The Contributor grants the Project Owner (AllSky7) an exclusive, perpetual, worldwide license to use, modify, distribute, and commercialize the contributions.
+The Contributor retains the copyright of their contributions but waives any rights to use the contributions commercially.
+2. Non-Commercial Use
+The contributions are provided free of charge for the development and operation of the AllSky7 project.
+The Contributor and the general public are permitted to use, copy, modify, and distribute the contributions solely for non-commercial purposes.
+Any use of the contributions in products, services, or activities that generate revenue or are intended for commercial advantage requires explicit written permission from the Project Owner.
+3. Commercial Rights
+Only the Project Owner (AllSky7) holds the rights to use the contributions for commercial purposes. This includes the right to incorporate the contributions into proprietary software or products, distribute commercially, and derive revenue.
+Contributors are not entitled to any share of the profits, royalties, or ownership in the commercial activities conducted by the Project Owner using their contributions.
+4. Non-Compete Clause
+Contributors agree not to use the contributions, any derivative works, or any proprietary information from the AllSky7 project to create, market, or sell a competing product or service.
+5. Attribution
+The Project Owner may, but is not required to, provide attribution to the Contributor for their contributions in any commercial or non-commercial use.
+6. Termination
+The Project Owner may terminate this agreement if the Contributor violates any of its terms. Upon termination, the Project Owner retains the right to continue using, modifying, and commercializing the contributions made prior to termination.
+7. Disclaimer
+The contributions are provided "as-is" without any warranties, express or implied. The Contributor is not liable for any claims, damages, or other liabilities arising from the use of their contributions.
+8. Acknowledgment
+By contributing to the AllSky7 project, the Contributor acknowledges that they have read and understood this agreement and agree to abide by its terms.
+
+
